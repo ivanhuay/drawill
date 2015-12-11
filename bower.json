@@ -1,0 +1,21 @@
+{
+  "name": "drawill",
+  "description": "dibujo colaborativo",
+  "main": "server.js",
+  "authors": [
+    "ivan huayraña"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
